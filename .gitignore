@@ -1,0 +1,4 @@
+node_modules/
+nodemon.json
+src/public/css
+package-lock.json
